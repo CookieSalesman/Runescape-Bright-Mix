@@ -14,7 +14,7 @@ Folders like Karambwan Tunes are pretty much just a dump though pieces which are
 
 The original archive of this music which I downloaded came with just a few of folders but nonjunkbox was one of them. This folder 'nonjunkbox' was NOT included in this Bright Mix.
 
-The reason this current version is not yet a full release is because something went wrong with how I kept the original files intact and something is missing and I don't know what. In addition, when I tried looking for the exact same archive of music, I couldn't find the original one. I only found a completely new archive of music that contained at least 50% more songs I've never heard of. If you know why there are many different versions and copies of runescape music it would help me to know why.
+The reason this current version is not yet a full release is because something went wrong with how I kept the original files intact, so something is missing and I don't know what is or how to even find the original files. When I tried looking for the archive I initially downloaded, I couldn't find it and only found a completely new archive of music that had at least 50% more songs that I've never heard before. If you know why there are many different versions and copies of runescape music it would help me to know why and which version(s) of the archives I should be using.
 
 
 
